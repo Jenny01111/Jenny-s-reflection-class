@@ -2,7 +2,7 @@ html{
     font-size: 12pt;
 }
 body{
-    background-color: rgb(172, 173, 225);
+    background-color: rgb(172, 225, 216);
     width: 800px;
     font-size: 2rem;
 }
@@ -11,9 +11,9 @@ h1{
     font-size: 4rem;
 }
 p{
-    color: rgb(23, 0, 99);
+    color: rgb(12, 70, 75);
     width: 50%;
-    background-color: rgb(172, 173, 225);
+    background-color: rgb(172, 225, 216);
     font-size: 1rem;
 }
 
