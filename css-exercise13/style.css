@@ -1,0 +1,22 @@
+html{
+    font-size: 12pt;
+}
+body{
+    background-color: rgb(172, 173, 225);
+    width: 800px;
+    font-size: 2rem;
+}
+
+h1{
+    font-size: 4rem;
+}
+p{
+    color: rgb(23, 0, 99);
+    width: 50%;
+    background-color: rgb(172, 173, 225);
+    font-size: 1rem;
+}
+
+a{
+    color: inherit;
+}
